@@ -25,7 +25,6 @@ provider "cherryservers" {
   auth_token = "4bdc0acb8f7af4bdc0acb8f7afe78522e6dae9b7e03b0e78522e6dae9b7e03b0"
 }
 ```
-- Clone this git repositroy for scripts and templates;
 - Modify the variables in **variables.tf** and **templates/galera.cnf.tmpl** according your project and the needs;
 - Initiate the terraform project:
 ```
